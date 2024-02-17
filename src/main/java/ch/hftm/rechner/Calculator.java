@@ -6,7 +6,7 @@ package ch.hftm.rechner;
 public class Calculator {
 
 	public double add(double a, double b) {
-		return a + b + b;
+		return a + b + a+ b;
 	}
 
 	public double subtract(double a, double b) {
