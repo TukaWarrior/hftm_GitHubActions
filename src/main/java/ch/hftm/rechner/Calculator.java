@@ -26,7 +26,7 @@ public class Calculator {
 	}
 
 	public double untestedOperation(double a) {
-		System.out.println("Additional code-line to decrase the coverage-value");
+		System.out.println("Additional code-line to decrase the coverage-value bla" );
 		return a;
 	}
 
